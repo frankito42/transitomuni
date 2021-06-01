@@ -1,0 +1,3 @@
+https://victorroblesweb.es/2017/04/23/cabeceras-http-php-permitir-acceso-cors/
+
+cords para php y fetch js
